@@ -1,0 +1,2 @@
+# NewsSKC
+My news site
